@@ -38,8 +38,6 @@ h1 {
     text-align: center;
     color: white;
     font-size: 36px;
-    margin-top: ;
-    margin-bottom: ;
 }
 
 p {
@@ -56,9 +54,7 @@ p {
 
 article {
     background-color: black;
-    padding: ;
     width: 400px;
-    margin: ;
 }
 
 .article-but {
